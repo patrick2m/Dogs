@@ -25,4 +25,4 @@ const PhotoComments = (props) => {
   );
 };
 
-export default PhotoComments
+export default PhotoComments;
